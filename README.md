@@ -109,7 +109,7 @@ The framework is designed to investigate how robust aggregation strategies influ
 ## Repository Structure
 
 ```text
-federated_learning_soil_project/
+Federated-Soil-Quality-Classification/
 
 ├── data/
 │   ├── client_data/
@@ -144,8 +144,7 @@ federated_learning_soil_project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Gurleen-ctrl1/federated_learning_soil_project.git
-
+git clone https://github.com/Gurleen-ctrl1/Federated-Soil-Quality-Classification.git
 cd federated_learning_soil_project
 ```
 
